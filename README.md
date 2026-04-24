@@ -50,18 +50,4 @@ Common stream operations in transaction analytics:
 
 ---
 
-## Getting Started (Template)
-> Update these commands to match your build tool (Maven/Gradle) and main class.
 
-### Build
-- **Maven**: `mvn clean package`
-- **Gradle**: `./gradlew build`
-
-### Run
-- **Maven exec**: `mvn exec:java`
-- Or run the `main()` method from your IDE.
-
----
-
-## License
-Add your license here (e.g., MIT, Apache-2.0).
